@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494145951665",
+    "project_id": "confabapp-8ac7a",
+    "storage_bucket": "confabapp-8ac7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494145951665:android:80fb675c131dff2f968f90",
+        "android_client_info": {
+          "package_name": "com.example.confab_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494145951665-50iktenbb7vogb5cgcti5da3cu12bfvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.confab_app",
+            "certificate_hash": "68611c03ad58eb1312c6939c3db53e119585baa8"
+          }
+        },
+        {
+          "client_id": "494145951665-kkmg7riv7lv0v6fgh8aj942g3dtl329q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqj2zNxa2L1c6M7h9kBPLi07cPp1X9bMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494145951665-kkmg7riv7lv0v6fgh8aj942g3dtl329q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
