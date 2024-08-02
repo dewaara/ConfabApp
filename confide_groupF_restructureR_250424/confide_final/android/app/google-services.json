@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1060967012044",
+    "project_id": "confide-30fc8",
+    "storage_bucket": "confide-30fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060967012044:android:84f638a9c2c16d56be1469",
+        "android_client_info": {
+          "package_name": "in.cdac.confide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060967012044-hjvl97hjusms4fkplui40olggk3pf34c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cdac.confide",
+            "certificate_hash": "1f894b97b4dabb41671dc040e34898ddef573755"
+          }
+        },
+        {
+          "client_id": "1060967012044-itd0id2tol4vive3k0k2sbhu1figtnt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5709EkHDXIr_-sf5OmFmzTknlcafCJNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060967012044-itd0id2tol4vive3k0k2sbhu1figtnt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
